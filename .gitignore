@@ -1,0 +1,68 @@
+# Visual Studio temporary files
+*.csproj.user
+*.csproj.suo
+*.csproj.vspscc
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+*.vc.db
+*.vc.pdb
+*.vc.vcxproj
+*.vc.sln
+*.vc.suo
+*.vs/*
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Log files
+*.log
+
+# Other temporary files
+*.swp
+*.DS_Store
+
+# Generated code
+*.designer.cs
+*.g.cs
+*.g.i.cs
+*.assemblyinfo.cs
+*.csproj.old
+*.csproj.bak
+
+# macOS files
+.DS_Store
+
+# Android builds
+# **/platforms/android/*
+
+# iOS builds
+# **/platforms/ios/*
+
+# Windows builds
+**/platforms/windows/*
+
+# Temporary files from different OSes
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# JetBrains
+.idea/
+
+# Node.js dependencies
+node_modules/
+
+# MAUI project specific
+*.db
+
